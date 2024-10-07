@@ -150,6 +150,8 @@
 		577267AE2A45734700434B2C /* SettingsInstallersCacheTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577267AD2A45734700434B2C /* SettingsInstallersCacheTableView.swift */; };
 		5795700B2A31B06F004C7051 /* ButtonStyle+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5795700A2A31B06F004C7051 /* ButtonStyle+Extension.swift */; };
 		5795700D2A31B081004C7051 /* MistActionButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5795700C2A31B081004C7051 /* MistActionButtonStyle.swift */; };
+		F60E75E62CB264990031C456 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F60E75E42CB264990031C456 /* InfoPlist.strings */; };
+		F60E75E92CB264990031C456 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = F60E75E72CB264990031C456 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -311,6 +313,8 @@
 		577267AD2A45734700434B2C /* SettingsInstallersCacheTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsInstallersCacheTableView.swift; sourceTree = "<group>"; };
 		5795700A2A31B06F004C7051 /* ButtonStyle+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ButtonStyle+Extension.swift"; sourceTree = "<group>"; };
 		5795700C2A31B081004C7051 /* MistActionButtonStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MistActionButtonStyle.swift; sourceTree = "<group>"; };
+		F60E75E52CB264990031C456 /* zh-HK */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-HK"; path = "zh-HK.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		F60E75E82CB264990031C456 /* zh-HK */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-HK"; path = "zh-HK.lproj/Localizable.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -372,6 +376,8 @@
 				39252A76285A849F00956C74 /* AppDelegate.swift */,
 				390451AD2856E1DA00E0B563 /* Assets.xcassets */,
 				39CF55A628614F8A006FB5D2 /* Info.plist */,
+				F60E75E72CB264990031C456 /* Localizable.strings */,
+				F60E75E42CB264990031C456 /* InfoPlist.strings */,
 				390451A92856E1D900E0B563 /* MistApp.swift */,
 				3935F47728643B1F00760AB0 /* UserNotificationCenterDelegate.swift */,
 				390451BD2856E32A00E0B563 /* Extensions */,
@@ -694,6 +700,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-HK",
 			);
 			mainGroup = 3904519D2856E1D800E0B563;
 			packageReferences = (
@@ -719,6 +726,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				390451AE2856E1DA00E0B563 /* Assets.xcassets in Resources */,
+				F60E75E92CB264990031C456 /* Localizable.strings in Resources */,
+				F60E75E62CB264990031C456 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -976,6 +985,25 @@
 			targetProxy = 39EAEAC72C8813AB00BA91B6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F60E75E42CB264990031C456 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F60E75E52CB264990031C456 /* zh-HK */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		F60E75E72CB264990031C456 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F60E75E82CB264990031C456 /* zh-HK */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		390451B32856E1DA00E0B563 /* Debug */ = {

@@ -1,0 +1,297 @@
+/* No comment provided by engineer. */
+"(%@)" = "(%@)";
+
+/* No comment provided by engineer. */
+"%@ - %@" = "%@ - %@";
+
+/* No comment provided by engineer. */
+"%@ %@ (%@)" = "%@ %@（%@）";
+
+/* No comment provided by engineer. */
+"%@s" = "%@ 秒";
+
+/* No comment provided by engineer. */
+"%lld" = "%lld";
+
+/* No comment provided by engineer. */
+"About" = "關於";
+
+/* No comment provided by engineer. */
+"Allow..." = "允許";
+
+/* No comment provided by engineer. */
+"An error has occured!" = "發生了錯誤！";
+
+/* No comment provided by engineer. */
+"An error has occurred!" = "發生了錯誤！";
+
+/* No comment provided by engineer. */
+"App Icon:" = "App 圖示";
+
+/* No comment provided by engineer. */
+"Applications" = "應用程式";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel?" = "確定要取消嗎？";
+
+/* No comment provided by engineer. */
+"Automatically check for app updates:" = "自動檢查應用程式更新：";
+
+/* No comment provided by engineer. */
+"Build" = "構建";
+
+/* No comment provided by engineer. */
+"Cache directory settings incorrect!" = "快取目錄設定不正確！";
+
+/* No comment provided by engineer. */
+"Cache downloads" = "快取下載";
+
+/* No comment provided by engineer. */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Catalog Type" = "目錄種類";
+
+/* No comment provided by engineer. */
+"Check for Updates..." = "檢查更新⋯";
+
+/* No comment provided by engineer. */
+"Check now..." = "現在檢查";
+
+/* No comment provided by engineer. */
+"Continue" = "繼續";
+
+/* No comment provided by engineer. */
+"Copy macOS Firmware URL to Clipboard" = "將 macOS 韌體 URL 複製到剪貼板";
+
+/* No comment provided by engineer. */
+"Create a Bootable Installer for macOS" = "為 macOS 製作一個可開機的安裝程式";
+
+/* No comment provided by engineer. */
+"Create bootable macOS Installer" = "製作可開機的 macOS 安裝程式";
+
+/* No comment provided by engineer. */
+"Detail Level" = "詳細資料層級";
+
+/* No comment provided by engineer. */
+"Disk Images" = "磁碟映像檔";
+
+/* No comment provided by engineer. */
+"Download and export macOS Installer" = "下載並輸出 macOS 安裝程式";
+
+/* No comment provided by engineer. */
+"Download macOS Firmware" = "下載 macOS 韌體";
+
+/* No comment provided by engineer. */
+"Download Type" = "下載種類";
+
+/* No comment provided by engineer. */
+"Enable Notifications" = "啟󠄁用通知";
+
+/* No comment provided by engineer. */
+"Export List..." = "輸出列表⋯";
+
+/* No comment provided by engineer. */
+"Export Log..." = "輸出記錄檔⋯";
+
+/* No comment provided by engineer. */
+"Export Type:" = "輸出種類：";
+
+/* No comment provided by engineer. */
+"Firmwares" = "韌體";
+
+/* No comment provided by engineer. */
+"Full Disk Access required!" = "需要完整磁碟取用！";
+
+/* No comment provided by engineer. */
+"General" = "一般";
+
+/* No comment provided by engineer. */
+"Include Betas" = "包括 Beta";
+
+/* No comment provided by engineer. */
+"Install Privileged Helper Tool..." = "安裝權限輔助程式工具⋯";
+
+/* No comment provided by engineer. */
+"Install..." = "安裝⋯";
+
+/* No comment provided by engineer. */
+"Installers" = "安裝程式";
+
+/* No comment provided by engineer. */
+"ISOs" = "ISO";
+
+/* No comment provided by engineer. */
+"Level" = "層級";
+
+/* No comment provided by engineer. */
+"macOS Firmware not compatible!" = "macOS 韌體不相容！";
+
+/* No comment provided by engineer. */
+"macOS Installer not compatible!" = "macOS安裝程式不相容！";
+
+/* No comment provided by engineer. */
+"Made with 🩸,💧, and whole lot of 😭 by [Ninxsoft](https://github.com/ninxsoft)" = "由 [Ninxsoft](https://github.com/ninxsoft) 用🩸、💧與大量的😭製作";
+
+/* No comment provided by engineer. */
+"Message" = "訊息";
+
+/* No comment provided by engineer. */
+"Mist" = "Mist";
+
+/* No comment provided by engineer. */
+"Mist Help" = "Mist 輔助說明";
+
+/* No comment provided by engineer. */
+"Mist Log" = "Mist 記錄檔";
+
+/* No comment provided by engineer. */
+"Mist requires Full Disk Access to perform Administrator tasks when creating macOS Installers." = "製作 macOS 安裝程式時，Mist 需要完整磁碟取用權限才能執行管理員任務。";
+
+/* No comment provided by engineer. */
+"No codesigning identities found in keychain" = "鑰匙圈中未找到程式碼簽名身份";
+
+/* No comment provided by engineer. */
+"Notifications..." = "通知⋯";
+
+/* No comment provided by engineer. */
+"OK" = "好";
+
+/* No comment provided by engineer. */
+"Once a day" = "每日一次";
+
+/* No comment provided by engineer. */
+"Once a fortnight" = "每兩週一次";
+
+/* No comment provided by engineer. */
+"Once a month" = "每月一次";
+
+/* No comment provided by engineer. */
+"Once a week" = "每週一次";
+
+/* No comment provided by engineer. */
+"Only show compatible versions" = "只顯示相容的版本";
+
+/* No comment provided by engineer. */
+"Only volumes formatted as **Mac OS Extended (Journaled)** are available for selection. Use **Disk Utility** to format volumes as required." = "只有格式為**Mac OS 擴充格式（日誌式）**的卷宗才可用於選擇。使用**「磁碟工具程式」**來按要求格式化卷宗。";
+
+/* No comment provided by engineer. */
+"Open Disk Utility" = "開啟󠄁「磁碟工具程式」";
+
+/* No comment provided by engineer. */
+"Packages" = "套件";
+
+/* No comment provided by engineer. */
+"Picker" = "選擇器";
+
+/* No comment provided by engineer. */
+"Privileged Helper Tool not installed!" = "未安裝權限輔助程式工具！";
+
+/* No comment provided by engineer. */
+"Privileged Helper Tool: %@" = "權限輔助程式工具：%@";
+
+/* No comment provided by engineer. */
+"Refresh" = "重新整理";
+
+/* No comment provided by engineer. */
+"Refreshing" = "重新整理";
+
+/* No comment provided by engineer. */
+"Release" = "發行版本";
+
+/* No comment provided by engineer. */
+"Remove" = "移除";
+
+/* No comment provided by engineer. */
+"Remove Cached Installer?" = "刪除快取的安裝程式？";
+
+/* No comment provided by engineer. */
+"Remove..." = "移除⋯";
+
+/* No comment provided by engineer. */
+"Repair..." = "修復⋯";
+
+/* No comment provided by engineer. */
+"Reset to Default" = "重設為預設值";
+
+/* No comment provided by engineer. */
+"Resume" = "恢復";
+
+/* No comment provided by engineer. */
+"Scheduled Check Interval" = "已編排檢查间隔";
+
+/* No comment provided by engineer. */
+"Select" = "選擇";
+
+/* No comment provided by engineer. */
+"Select a volume to create a bootable macOS Installer:" = "選擇一個卷宗來製作一個可開機的 macOS 安裝程式：";
+
+/* No comment provided by engineer. */
+"Select Export Types:" = "選擇輸出種類：";
+
+/* No comment provided by engineer. */
+"Select identity..." = "選擇身分⋯";
+
+/* No comment provided by engineer. */
+"Select..." = "選擇⋯";
+
+/* No comment provided by engineer. */
+"Selected Volume" = "選擇的卷宗";
+
+/* No comment provided by engineer. */
+"Show in Finder" = "在 Finder 顯示";
+
+/* No comment provided by engineer. */
+"Show in Finder upon completion" = "完成後在 Finder 顯示";
+
+/* No comment provided by engineer. */
+"Show Log" = "顯示記錄檔";
+
+/* No comment provided by engineer. */
+"Show Mist Log" = "顯示 Mist 記錄檔";
+
+/* No comment provided by engineer. */
+"Size" = "大小";
+
+/* No comment provided by engineer. */
+"Software Update Catalogs:" = "軟件更新目錄：";
+
+/* No comment provided by engineer. */
+"The Firmwares API is being updated, please try again shortly." = "韌體 API 更新中，請稍後再試。";
+
+/* No comment provided by engineer. */
+"The macOS Installer Super Tool" = "macOS 安裝程式超級工具";
+
+/* No comment provided by engineer. */
+"The Mist Privileged Helper Tool is required to perform Administrator tasks when creating macOS Installers." = "製作 macOS 安裝程式時，需要 Mist 權限輔助程式工具才能執行管理員任務。";
+
+/* No comment provided by engineer. */
+"The Mist Privileged Helper Tool is required to perform Administrator tasks when downloading macOS Firmwares." = "下載 macOS 韌體時，需要 Mist 權限輔助程式工具才能執行管理員任務。";
+
+/* No comment provided by engineer. */
+"The selected volume will be **erased automatically**. Ensure you have backed up any necessary data before proceeding." = "所選的卷宗將**自動清除**。在繼續之前，請確定你已經備份了任何必要的資料。";
+
+/* No comment provided by engineer. */
+"There was an error enabling notifications!" = "啟用通知時發生錯誤！";
+
+/* No comment provided by engineer. */
+"There was an error removing the cached Installer directory. Show in Finder to remove manually." = "刪除快取的安裝程式目錄時發生錯誤。在 Finder 中顯示以手動刪除。";
+
+/* No comment provided by engineer. */
+"This process cannot be resumed once it has been cancelled." = "這個程序一旦取消，就無法恢復。";
+
+/* No comment provided by engineer. */
+"Timestamp" = "時間戳記";
+
+/* No comment provided by engineer. */
+"Version" = "版本";
+
+/* No comment provided by engineer. */
+"Version: %@" = "版本：%@";
+
+/* No comment provided by engineer. */
+"Visit Homepage" = "到訪主頁";
+
+/* No comment provided by engineer. */
+"Visit Notification Centre settings to manually allow Notifications." = "到訪「通知中心」設定來手動允許通知。";
+
